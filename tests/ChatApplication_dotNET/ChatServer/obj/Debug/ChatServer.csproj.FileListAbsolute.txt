@@ -1,0 +1,8 @@
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatServer\obj\Debug\ChatServer.ChatServer.resources
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatServer\obj\Debug\ChatServer.exe
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatServer\obj\Debug\ChatServer.pdb
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatServer\bin\Debug\ChatServer.exe.config
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatServer\bin\Debug\ChatServer.exe
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatServer\bin\Debug\ChatServer.pdb

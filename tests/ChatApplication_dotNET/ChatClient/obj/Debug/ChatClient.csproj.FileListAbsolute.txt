@@ -1,0 +1,12 @@
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\bin\Debug\ChatClient.exe.config
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\obj\Debug\ChatClient.exe
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\obj\Debug\ChatClient.pdb
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\obj\Debug\ChatClient.ChatClient.resources
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\bin\Debug\ChatClient.exe
+Z:\shared-host\WIP\Canape\WCF_Binary\ChatApplication\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\jbr\Desktop\ChatApplication\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\jbr\Desktop\ChatApplication\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\jbr\Desktop\ChatApplication\ChatClient\obj\Debug\ChatClient.pdb
