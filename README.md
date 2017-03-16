@@ -21,7 +21,7 @@ python /home/jbr/github/dotnet-binary-deserializer --xml2mcnbfs -f <input_xml_fi
 python /home/jbr/github/dotnet-binary-deserializer --xml2mcnbfse -f <input_xml_filename> -o <output_filename>
 ```
 
-![example_mcnbfse](./example_mcnbfse.png)
+![example_mcnbfse](./pictures/example_mcnbfse.png)
 
 Overview
 ----
