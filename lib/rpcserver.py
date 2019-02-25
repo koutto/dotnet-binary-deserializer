@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from lib import *
 import time
 import os
